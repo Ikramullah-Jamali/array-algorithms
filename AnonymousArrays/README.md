@@ -68,5 +68,5 @@ Feel free to modify the code or reuse it in your own Java practice projects!
 
 ---
 
-## Auther
+## 🙋‍♂️ Auther
 Auther: Ikramullah Jamali
