@@ -61,7 +61,7 @@ Anonymous2DArray.java
 Calculating sum of anonymous 2D array elements:
 Sum is: 150
 
-📘 License
+## 📘 License
 This repository is intended for learning and educational use.
 
 Feel free to modify the code or reuse it in your own Java practice projects!
