@@ -75,5 +75,5 @@ Feel free to explore, modify, and experiment with these basic array programs to 
 
 ---
 
-## Auther
+## 🙋‍♂️ Auther
 Auther: Ikramullah Jamali
