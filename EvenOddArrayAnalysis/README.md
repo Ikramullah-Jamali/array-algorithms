@@ -56,5 +56,5 @@ Made with ❤️ and Java.
 
 ---
 
-##👨‍💻 Author
+##👨‍💻 Author : 
 Ikramullah Jamali
