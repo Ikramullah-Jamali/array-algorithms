@@ -82,5 +82,6 @@ Happy coding! 😄
 
 ---
 
-🙋‍♂️ Auther : Ikramullah Jamali
+## 🙋‍♂️ Auther
+Auther: Ikramullah Jamali
 
