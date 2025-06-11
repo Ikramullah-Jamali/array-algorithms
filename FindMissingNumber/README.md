@@ -53,6 +53,8 @@ Time Complexity: O(n)
 
 Space Complexity: O(1)
 
-🧠 Author
+---
+
+## 🧠 Author :
 👤 Ikramullah Jamali 
 📘 Learning DSA in Java
