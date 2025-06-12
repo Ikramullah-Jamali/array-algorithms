@@ -1,4 +1,4 @@
-# ➕ Insert Element in Array (Java Programs)
+## ➕ Insert Element in Array (Java Programs)
 
 This project demonstrates two different methods to **insert an element into an array** at a specific location in Java.
 
@@ -36,7 +36,9 @@ Index:   4
 💻 Output: 
 10 20 30 40 100 50 60 70 
 
-🧪 Example 2: Insert by Position (1-based)
+---
+
+## 🧪 Example 2: Insert by Position (1-based)
 📄 File: InsertElementAtPosition.java
 
 🧾 Input: 
@@ -46,14 +48,14 @@ Position: 4
 💻 Output: 
 10 20 30 100 40 50 60 70
 
-⚠️ Important Notes
+## ⚠️ Important Notes
 These programs assume the array has enough capacity to hold the extra element.
 
 Java arrays are not resizable, so this logic works best with pre-allocated space or static arrays.
 
 For dynamic arrays, consider using Java’s ArrayList class.
 
-🚀 How to Compile & Run
+## 🚀 How to Compile & Run
 💻 Compile: 
 javac InsertElementAtIndex.java 
 javac InsertElementAtPosition.java
@@ -63,4 +65,4 @@ java InsertElementAtPosition
 
 ---
 
-##👨‍💻 Author : Ikramullah Jamali
+## 👨‍💻 Author : Ikramullah Jamali
