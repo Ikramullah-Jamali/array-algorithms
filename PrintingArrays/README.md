@@ -1,4 +1,4 @@
-Here you'll find Java programs that demonstrate how to **traverse and print 1D, 2D, and 3D arrays** using different types of loops. 
+# Here you'll find Java programs that demonstrate how to **traverse and print 1D, 2D, and 3D arrays** using different types of loops. 
 
 Each file contains clean, beginner-friendly code ✨ using: 
 - 🔁 For Loop 
@@ -9,9 +9,9 @@ Each file contains clean, beginner-friendly code ✨ using:
 
 --- 
 
-## 📄 Files and Descriptions 
+# 📄 Files and Descriptions 
 
-# ✅ `Print1DArrayUsingForLoop.java` 
+## ✅ `Print1DArrayUsingForLoop.java` 
 🔹 **Loop Type**: `for`  
 🔹 **Purpose**: Print a 1D array using a classic `for` loop  
 🔹 **Output**: `10 , 20 , 30`  
@@ -19,7 +19,7 @@ Each file contains clean, beginner-friendly code ✨ using:
 
 --- 
 
-# ✅ `Print1DArrayUsingForEach.java` 
+## ✅ `Print1DArrayUsingForEach.java` 
 🔹 **Loop Type**: `for-each`  
 🔹 **Purpose**: Traverse a 1D array using enhanced for loop  
 🔹 **Output**: `10 , 20 , 30 , 40 , 50`  
@@ -27,7 +27,7 @@ Each file contains clean, beginner-friendly code ✨ using:
 
 --- 
 
-# ✅ `Print1DArrayUsingWhileLoop.java` 
+## ✅ `Print1DArrayUsingWhileLoop.java` 
 🔹 **Loop Type**: `while`  
 🔹 **Purpose**: Print array elements using a `while` loop  
 🔹 **Output**: `10 , 20 , 30`  
@@ -35,7 +35,7 @@ Each file contains clean, beginner-friendly code ✨ using:
 
 --- 
 
-# ✅ `Print1DArrayUsingDoWhileLoop.java` 
+## ✅ `Print1DArrayUsingDoWhileLoop.java` 
 🔹 **Loop Type**: `do-while`  
 🔹 **Purpose**: Print a 1D array using `do-while` logic  
 🔹 **Output**: `10 , 20 , 30`  
@@ -43,7 +43,7 @@ Each file contains clean, beginner-friendly code ✨ using:
 
 --- 
 
-# ✅ `Print2DArray.java` 
+## ✅ `Print2DArray.java` 
 🔹 **Loop Type**: Nested `for`  
 🔹 **Purpose**: Print all elements of a 2D (jagged) array  
 🔹 **Output**:
@@ -57,7 +57,7 @@ Each file contains clean, beginner-friendly code ✨ using:
 
 --- 
 
-# ✅ `Print3DArray.java` 
+## ✅ `Print3DArray.java` 
 🔹 **Loop Type**: Nested `for` for 3D array  
 🔹 **Purpose**: Traverse and print 3D (jagged) array  
 🔹 **Output**: 
@@ -72,7 +72,7 @@ Section 1:
 
 --- 
 
-## 🧠 Learning Goals 
+# 🧠 Learning Goals 
 📘 These examples help you: 
 - Understand different types of Java loops   
 - Traverse multidimensional arrays (1D, 2D, 3D)  
@@ -81,4 +81,4 @@ Section 1:
 
 --- 
 
-## 👨‍💻 Author : IkramUllah Jamali
+# 👨‍💻 Author : IkramUllah Jamali
